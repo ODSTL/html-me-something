@@ -1,0 +1,83 @@
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: fill;
+}
+
+#jim {
+  transform: rotate(180deg);
+}
+
+#zack {
+  transform: rotate(90deg);
+}
+
+#logo {
+  align-self: center;
+  border: 1px solid white;
+}
+
+#service {
+  text-align: center;
+}
+
+#thanks {
+  text-align: center;
+  font-size: 30px;
+}
+
+#news {
+  text-align: center;
+}
+
+.content {
+  position: relative;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+table, td {
+  align-items: 50%;
+  align-content: 50%;
+  padding-left: 85px;
+  padding-right: 85px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 20pt;
+  font
+}
+
+img {
+    border: 3px solid white;
+}
+
+p {
+  font-family: trajanpro;
+  font-size: 15pt;
+  text-align: justify;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-sizing: content-box;
+}
+
+strong {
+  font-weight: bold;
+}
+
+header {
+  font-family: trajanpro;
+  font-size: 25px;
+}
+
+a {
+  color: orange;
+}
