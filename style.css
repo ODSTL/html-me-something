@@ -7,13 +7,13 @@
   object-fit: fill;
 }
 
-#jim {
+/*#jim {
   transform: rotate(180deg);
 }
 
 #zack {
   transform: rotate(90deg);
-}
+}*/
 
 #logo {
   align-self: center;
